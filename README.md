@@ -125,7 +125,7 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 * Exercício Python #079 - [Valores únicos em uma lista](https://github.com/EricssonDaSilva-code/Curso_Python_Gustavo_Guanabara_master/blob/main/mundo_3/exercicios/aula_17/exercicio_79.py)
 * Exercício Python #080 - [Lista ordenada sem repetições](https://github.com/EricssonDaSilva-code/Curso_Python_Gustavo_Guanabara_master/blob/main/mundo_3/exercicios/aula_17/exercicio_80.py)
 * Exercício Python #081 - [Extraindo dados de uma lista](https://github.com/EricssonDaSilva-code/Curso_Python_Gustavo_Guanabara_master/blob/main/mundo_3/exercicios/aula_17/exercicio_81.py)
-* Exercício Python #082 - [Dividindo valores em várias listas]https://github.com/EricssonDaSilva-code/Curso_Python_Gustavo_Guanabara_master/blob/main/mundo_3/exercicios/aula_17/exercicio_82.py)
+* Exercício Python #082 - [Dividindo valores em várias listas](https://github.com/EricssonDaSilva-code/Curso_Python_Gustavo_Guanabara_master/blob/main/mundo_3/exercicios/aula_17/exercicio_82.py)
 * Exercício Python #083 - [Validando expressões matemáticas](https://github.com/EricssonDaSilva-code/Curso_Python_Gustavo_Guanabara_master/blob/main/mundo_3/exercicios/aula_17/exercicio_83.py)
 
 #### Listas (Parte 2)
