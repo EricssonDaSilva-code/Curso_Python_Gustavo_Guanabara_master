@@ -1,6 +1,7 @@
-# Este é o README do curso de Python 3 do Curso em Vídeo
+## Este é o README do curso de Python 3 do Curso em Vídeo
 
 Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (vídeos também disponíveis no canal do YouTube do Curso em Vídeo.)
+Contem os exercícios resolvidos dos três módulos do curso, que contém 120 horas no total e mais de 100 exercícios resolvidos, indo do básico como criar variáveis, até a modularização e tratamento de erros, porém não contém Orientação a Objetos.
 
 ***
 
